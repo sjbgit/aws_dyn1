@@ -1,0 +1,22 @@
+{
+  "name": "aws_dyn1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjbgit/aws_dyn1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjbgit/aws_dyn1/issues"
+  },
+  "homepage": "https://github.com/sjbgit/aws_dyn1#readme",
+  "dependencies": {
+    "dynamodb": "^0.3.6"
+  }
+}
